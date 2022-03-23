@@ -1,0 +1,12 @@
+{
+  "cars": [
+    { "id": 1, "model": "Model X", "manufacturer": "Tesla", "author": "iván" },
+    {
+      "id": 2,
+      "model": "LaFerrari",
+      "manufacturer": "Ferrari",
+      "author": "iván"
+    },
+    { "id": 3, "model": "X6", "manufacturer": "BMW", "author": "iván" }
+  ]
+}
